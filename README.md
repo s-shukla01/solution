@@ -66,7 +66,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. License details will be added as needed.
 
 ## Contact
 
